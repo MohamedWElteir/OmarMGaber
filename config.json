@@ -1,0 +1,13 @@
+{
+    "css_file_paths": ["main.css"],
+    "template_file_path": "TEMPLATE.md", 
+    "output_file_path": "README.md",
+    "projects_file_paths":
+    [
+        {
+            "file_path": "projects.json",
+            "start": "<!-- START PROJECTS BY NAME -->",
+            "end": "<!-- END PROJECTS BY NAME -->"
+        }
+    ]
+}

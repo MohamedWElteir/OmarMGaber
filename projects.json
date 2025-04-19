@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Goolean",
+        "tags": ["Information Retrieval", "Search Engine"],
+        "technologies": ["Go", "gRPC"],
+        "description": "Goolean is a boolean model search engine that allows users to perform boolean queries on a dataset of documents (corpus)",
+        "src-url": "https://github.com/CS80-Team/Goolean"
+    },
+    {
+        "name": "Goolean-web",
+        "tags": ["Web Development"],
+        "technologies": ["python", "gRPC", "Flask"],
+        "description": "Goolean-web is a web application that provides a web interface for the `Goolean` search engine",
+        "src-url": "https://github.com/CS80-Team/Goolean-web"
+    },
+    {
+        "name": "gshell",
+        "tags": ["Shell", "Command Line"],
+        "technologies": ["Go"],
+        "description": "A simple, general-purpose command-line interface (CLI) shell embedded in the Goolean search engine.",
+        "src-url": "https://github.com/CS80-Team/gshell"
+    },
+    {
+        "name": "cp-library",
+        "tags": ["Library", "Data Structures", "Algorithms", "Competitive Programming"],
+        "technologies": ["C++", "LaTeX"],
+        "description": "A library of data structures and algorithms for competitive programming, implemented in C++ and documented in LaTeX.",
+        "src-url": "https://github.com/CS80-Team/cp-library"
+    },
+    {
+        "name": "CPU-Scheduling-Simulator",
+        "tags": ["Simulation", "Operating Systems"],
+        "technologies": ["C"],
+        "description": "A CPU scheduling simulator that simulates various CPU scheduling algorithms.",
+        "src-url": "https://github.com/OmarMGaber/CPU-Scheduling-Simulator"
+    },
+    {
+        "name": "CPriorityQueue",
+        "tags": ["Data Structures", "Algorithms"],
+        "technologies": ["C"],
+        "description": "A generic Priority Queue implementation in C using generic pointers (void pointers) and compare functions, supporting various C primitive data types.",
+        "src-url": "https://github.com/OmarMGaber/CPriorityQueue"
+    },
+    {
+        "name": "Distributed-File-Sharing-System",
+        "tags": ["Distributed Systems", "File Sharing", "Networking", "Socket Programming"],
+        "technologies": ["Java"],
+        "description": "This project tries to mimic a Distributed File Sharing System with Flooding technique using Sockets in Java.",
+        "src-url": "https://github.com/OmarMGaber/Distributed-File-Sharing-System"
+    },
+    {
+        "name": "Count-Min Sketch",
+        "tags": ["Data Structures", "Algorithms"],
+        "technologies": ["JavaScript", "Jasmine"],
+        "description": "Count-Min Sketch Data Structure written in JavaScript and tested using Jasmine framework",
+        "src-url": "https://github.com/OmarMGaber/CountMinSketch"
+    },
+    {
+        "name": "ImageExtensionDetector",
+        "tags": ["File Type Detection", "Multimedia"],
+        "description": "A simple image extension detector tool that reads the file header and detect its type written in C++.",
+        "technologies": ["C++"],
+        "src-url": "https://github.com/OmarMGaber/ImageExtensionDetector"
+    },
+    {
+        "name": "MiniGamesVsAi",
+        "tags": ["Game Development", "AI"],
+        "description": "A collection of mini games with basic AI algorithms.",
+        "technologies": ["Python", "Tkinter"],
+        "src-url": "https://github.com/OmarMGaber/MiniGamesVsAi"
+    },
+    {
+        "name": "Turing-Machine-Simulator",
+        "tags": ["Simulation", "Automata Theory"],
+        "description": "A Turing Machine Simulator that simulates a Turing machine with a given set of states, input tape, and transition function.",
+        "technologies": ["Java"],
+        "src-url": "https://github.com/OmarMGaber/Turing-Machine-Simulator"
+    }
+]
