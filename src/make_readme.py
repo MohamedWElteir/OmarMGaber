@@ -1,3 +1,10 @@
+""" 
+
+Author: Omar Muhammad (OmarMGaber) 
+Date: 19/4/2025
+
+"""
+
 import json
 import styles_applier 
 import table_generator

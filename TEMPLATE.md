@@ -1,3 +1,5 @@
+<!-- Author: Omar Muhammad (OmarMGaber) -->
+<!-- Date: 19/4/2025 -->
 <div class="main">
     <h2  class="h2">Omar Muhammed Gaber</h2>
     <h3 class="h3">Computer Science Student</h3>

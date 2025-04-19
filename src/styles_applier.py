@@ -1,3 +1,10 @@
+""" 
+
+Author: Omar Muhammad (OmarMGaber) 
+Date: 19/4/2025
+
+"""
+
 from bs4 import BeautifulSoup
 import css_parser
 import css_to_html

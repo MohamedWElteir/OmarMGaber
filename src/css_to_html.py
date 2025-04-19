@@ -1,4 +1,8 @@
 """
+
+Author: Omar Muhammad (OmarMGaber) 
+Date: 19/4/2025
+
 CSS to HTML Legacy Attribute Mapper
 
 This script maps CSS rules to their equivalent HTML attributes.
