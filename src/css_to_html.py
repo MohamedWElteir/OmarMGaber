@@ -160,13 +160,12 @@ class CSSToHTMLMapper:
         
         return '3'
 
-    def css_to_html_attributes(self, css_rules, tag_name):
+    def css_to_html_attributes(self, css_rules):
         """
         Convert CSS rules to HTML attributes for a specific tag.
         
         Args:
             css_rules (dict): Dictionary of CSS properties and values
-            tag_name (str): HTML tag name to check attribute compatibility
             
         Returns:
             dict: Dictionary of HTML attributes and values

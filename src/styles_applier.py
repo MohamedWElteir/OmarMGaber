@@ -17,9 +17,6 @@ MAPPER = css_to_html.CSSToHTMLMapper()
 IGNORE_STYLE_ATTR = os.getenv("IGNORE_STYLE_ATTR") == "true"
 IGNORE_HTML_LEGACY_ATTR = os.getenv("IGNORE_HTML_LEGACY_ATTR") == "true"
 
-print("IGNORE_STYLE_ATTR = ", IGNORE_STYLE_ATTR)
-print("IGNORE_HTML_LEGACY_ATTR = ", IGNORE_HTML_LEGACY_ATTR)
-
 def _map(styles):
     idx = styles.find(':')
     return {styles[:idx].strip(): styles[idx+1:].strip()}
@@ -29,7 +26,7 @@ def _apply(elements, styles, key):
     for element in elements:
         for style in styles[key]:
             if not IGNORE_HTML_LEGACY_ATTR: 
-                attr = MAPPER.css_to_html_attributes(_map(style), element.name)
+                attr = MAPPER.css_to_html_attributes(_map(style))
                 
                 if attr:
                     for attr_name, attr_value in attr.items():
