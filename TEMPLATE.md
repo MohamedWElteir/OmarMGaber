@@ -6,9 +6,9 @@
     <h4 class="h4">Alexandria University</h4>
     <details>
         <summary class="main-details">Details</summary>
-        <summary class="sub-details">About Me</summary>
+        <summary class="sub-details align-left">About Me</summary>
             <p>I'm a computer science student at Alexandria University with huge interest in data structures, algorithms design, distributed systems and software performance optimization techniques.</p>
-        <summary class="sub-details">Contact & Social Links</summary>
+        <summary class="sub-details align-left">Contact & Social Links</summary>
             <div align="center">
                 <a href="https://www.linkedin.com/in/omarmgaber/" target="blank">
                     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">

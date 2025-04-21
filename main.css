@@ -100,7 +100,9 @@ details {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    text-align: center;
+}
+.align-left {
+    text-align: left;
 }
 .sub-sub-details {
     padding: 10px;
